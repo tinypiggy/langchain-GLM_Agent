@@ -5,7 +5,7 @@ VS_PATH = os.path.join(os.path.dirname(__file__), "../vector_store/FAISS")
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 70
 VECTOR_SEARCH_TOP_K = 2
-os.environ["SERPAPI_API_KEY"] = "Your SerpAPI Key"
+os.environ["SERPAPI_API_KEY"] = "662e7afcfe3733eb1b2e372756e1e753e2857975aed2c9b7b7ae9644ee3c0d4e"
 
 PROMPT_TEMPLATE = """已知信息：
 {context}

@@ -1,6 +1,6 @@
 import requests
 
-RapidAPIKey = ""
+RapidAPIKey = "3993d3ccaemsh7722f6ac650a6d6p186f2fjsnf9c6366e0540"
 
 class DeepSearch:
     def search(query: str = ""):
